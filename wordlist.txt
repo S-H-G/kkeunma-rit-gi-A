@@ -11,3 +11,5 @@ eight
 terminal
 
 love
+
+easy
